@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Passport Google OAuth2 Example
 ==============================
 
@@ -69,3 +70,6 @@ app.get('/auth/google/callback',
 ## License
 
 [The MIT License](http://benbarber.mit-license.org/)
+=======
+# myapp
+>>>>>>> 9039d4e7a30294f3b995e5c71bb1b565c6e981cd
